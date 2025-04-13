@@ -1,0 +1,6 @@
+[submodule "first_flutter_app"]
+	path = first_flutter_app
+	url = https://github.com/yasirhussain0/namer_app
+[submodule "layout_tutorial"]
+	path = layout_tutorial
+	url = https://github.com/1solutionprovider/assignment-1-ui-composition-group2
